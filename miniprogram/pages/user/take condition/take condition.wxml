@@ -1,0 +1,11 @@
+<!--pages/user/takemedicine/takemedicine.wxml-->
+<view class="content">
+    <image src="{{src}}"  mode="widthFix"/>
+</view>
+<view class="main" bindtap="select">选择图片</view>
+
+<view class="show">
+   <input value="{{result}}" class="input"></input>
+</view>
+
+<view class="read" bindtap="download">其他</view>

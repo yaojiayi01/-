@@ -1,0 +1,22 @@
+.header{
+text-align: center;
+color:rgb(132, 132, 196);
+font-size: 30px;
+
+}
+
+image{
+
+width: 380px
+
+}
+
+.kb{
+margin-top: 20px;
+
+width:300px;
+
+border:gray solid
+
+
+}

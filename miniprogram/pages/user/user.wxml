@@ -1,0 +1,9 @@
+<view class='header'><text>欢迎您的到来</text></view>
+
+<view><image src = '../images/timg.jpg'></image></view>
+
+
+<button bindtap="takecondition" class="kb">交通灯查询</button>
+
+<button bindtap="takeconditions" class="kb">位置查询</button>
+

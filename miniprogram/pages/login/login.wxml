@@ -1,0 +1,37 @@
+<view class='container'>
+
+<view class='title'>
+
+<text>登录系统</text>
+
+</view>
+<image class="login-img" src="../images/timg.jpg"></image> 
+
+<form bindsubmit="onSubmit">
+
+<view>
+
+
+<text>账号：</text>
+
+<input placeholder='请输入账号' name="account" />
+
+</view>
+
+<view>
+
+<text>密码:</text>
+
+<input password='true' placeholder='请输入密码' name="pwd"/>
+
+</view>
+
+<view class='button'>
+
+<button type='primary' form-type='submit'>登录</button>
+
+</view>
+
+</form>
+
+</view>

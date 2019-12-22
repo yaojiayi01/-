@@ -1,0 +1,3 @@
+<button bindtap="searchwhere" class="lb">查询位置信息</button>
+
+<button bindtap="near" class="lb">附近医院</button>

@@ -1,0 +1,14 @@
+.map_container{ 
+    height: 300px; 
+    width: 100%; 
+} 
+
+.map { 
+    height: 100%; 
+    width: 100%; 
+} 
+
+.place_info{
+     margin-top: 50px;
+     border:rgb(214, 192, 192) solid;
+}

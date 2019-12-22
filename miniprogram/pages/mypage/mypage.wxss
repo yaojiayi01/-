@@ -1,0 +1,41 @@
+
+
+
+.user{
+
+display: flex;
+
+flex-direction: column;
+
+align-items: center;
+
+margin-top: 12px
+
+}
+
+image{
+
+width: 200rpx;
+
+height: 200rpx;
+
+border-radius: 40%;
+
+border: 2rpx solid black;
+
+}
+
+.bk{
+margin-top: 20px;
+
+width:300px;
+
+border:gray solid
+
+}
+
+
+.exit{
+margin-top: 40px;
+}
+

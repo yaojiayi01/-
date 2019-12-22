@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/user/user",
+    "pages/mypage/mypage",
+    "pages/login/login",
+    "pages/GPS/GPS",
+    "pages/take condition/take condition"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "盲人助手",
+        "navigationBarTextStyle": "black"
+        },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/GPS/GPS",
+        "text": "查询气候",
+        "iconPath": "/pages/images/GPS.png",
+        "selectedIconPath": "/pages/images/love.jpg"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": " 查询状态 ",
+        "iconPath": "/pages/images/红绿灯.png",
+        "selectedIconPath": "/pages/images/love.jpg"
+      },
+      {
+        "pagePath": "pages/mypage/mypage",
+        "text": "我的主页",
+        "iconPath": "/pages/images/房子.png",
+        "selectedIconPath": "/pages/images/love.jpg"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "请确认授权"
+    }
+  },
+  "sitemapLocation": "sitemap27.json"
+}

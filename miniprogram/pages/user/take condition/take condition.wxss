@@ -1,0 +1,30 @@
+/* pages/user/takemedicine/takemedicine.wxss */
+.content{
+  text-align: center;
+  margin-bottom: 1em;
+}
+.main{
+  text-align: center;
+  background-color: #3CB371;
+  padding: 0.5em 0;
+  border-radius: 5px;
+  color: #fff;
+}
+.result{
+  margin-top:12px;
+}
+.read{
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 5px;
+  border-style:dashed;
+	border-width:200px;
+  color: rgba(255, 255, 255, 0);
+}
+.input{
+  width:500px;
+  border:1px dashed rgba(255, 255, 255, 0);
+}
+.show{
+  margin-top:1px;
+}

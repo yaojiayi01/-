@@ -1,0 +1,18 @@
+.lb{
+margin-top: 100px;
+
+width:300px;
+
+height:100px;
+
+font: center;
+
+border:gray solid;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+}

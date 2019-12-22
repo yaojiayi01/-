@@ -1,0 +1,21 @@
+<view class='container'>
+
+<view class='user'>
+
+<image src = '../images/我.png'></image>
+
+<text>{{username}}</text>
+
+</view>
+
+</view>
+
+
+<button bindtap="person" class='bk'>个人信息</button>
+<button bindtap="news" class='bk'>通知</button>
+<button bindtap="help" class='bk'>帮助</button>
+<button bindtap="aboutus" class='bk'>关于我们</button>
+
+
+
+<button type="warn" bindtap="exit" class='exit'><text class="exit2">注销</text></button>
